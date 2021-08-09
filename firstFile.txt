@@ -4,7 +4,7 @@ Merge branch git_1 to git_2. Modifyed.
 git_2: Update and commit any two lines in secondFile.txt. Modifyed.
 git_1: Update and commit the same 2 lines with the different info in secondFile.txt
 Merge branch git_2 to git_1, resolve conflict. Left all (4) modified lines. Commit.
-git_1: Update and commit 1.txt file, modify two lines.
-git_1: Update and commit 1.txt file, modify another two lines.
+git_1: Update and commit 1.txt file, modify two lines. Changed in cloned folder
+git_1: Update and commit 1.txt file, modify another two lines. Changed in cloned folder.
 Transfer changes of commit from Step 7 only to git_2, using format patch.
 Transfer changes of commit from Step 8 only to git_2, using cherrypick command.
