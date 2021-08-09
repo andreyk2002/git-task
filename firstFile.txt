@@ -1,5 +1,5 @@
-git_1: Add and commit firstFile.txt file with 10 lines.
-git_1: Add and commit secondFile.txt file with 10 lines.
+git_1: Add and commit firstFile.txt file with 10 lines. Modifyed.
+git_1: Add and commit secondFile.txt file with 10 lines. Modifyed.
 Merge branch git_1 to git_2
 git_2: Update and commit any two lines in secondFile.txt.
 git_1: Update and commit the same 2 lines with the different info in secondFile.txt
